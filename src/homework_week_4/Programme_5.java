@@ -56,7 +56,7 @@ public class Programme_5 {
     public static boolean isPalindrome(int number) {
         int finalNum = number;
         int reverseNumber = 0;
-        while (number > 0) {
+        while (number != 0) {
             reverseNumber = reverseNumber * 10 + number % 10;
             //System.out.println(reverseNumber);
             number = number / 10;
