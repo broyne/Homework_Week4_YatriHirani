@@ -33,7 +33,7 @@ public class Programme_8 {
 
                 System.out.print(a);
             }
-            System.out.println("Not valid");
+            System.out.println(" ");
         }
     }
 
