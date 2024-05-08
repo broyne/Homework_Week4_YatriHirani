@@ -34,7 +34,7 @@ public class Programme_15 {
             for (int k = 1; k <= i; k++) {
                 System.out.print(a);
             }
-            System.out.println("Not valid");
+            System.out.println(" ");
         }
 
     }
